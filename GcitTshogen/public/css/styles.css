@@ -1,0 +1,115 @@
+body {
+    font-family: Montserrat;
+}
+
+#title {
+    background-color: #363333;
+    color: white;
+    
+}
+
+h1 {
+    font-family: 'Montserrat-Black';
+    font-size: 3.5rem;
+    line-height: 1.5;
+
+}
+
+h2 {
+    font-family: "Montserrat-Bold";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h3 {
+    font-family: 'Monsterrat-blod';
+
+}
+
+p {
+    color: #8f8f8f;
+}
+
+/* .container-fluid {
+    /* padding: 3% 10%; */
+
+
+.navbar {
+    padding: 0 0 2.5rem;
+}
+
+.navbar-brand {
+    font-size: 2.5rem;
+
+}
+
+.nav-item {
+    padding: 0 18px;
+
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: Monserrat-Light;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.title-image {
+    width: 60%;
+    transform: rotate(25deg);
+}
+
+#features {
+    padding: 7% 15%;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding: 10% 20%;
+}
+
+
+#pricing-column {
+    padding: 3% 2%;
+}
+
+@media(max-width:1029px) {
+    #title {
+        text-align: center;
+    }
+
+    
+}
